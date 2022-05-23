@@ -1,8 +1,5 @@
-                                                               LRG²B
-groupe d'étudiant informatique landa
---------------------------------------------------------------------------------------------------------
-lieu :  France
+                                       Ce Repository c'est juste pour avoir un ReadMe sur l'accueil de LRG²B
 
-site :  https://sites.google.com/view/lrg2b/accueil
+_______________________________________
 
-mail :  lrg2b.group@gmail.com
+il y a vraiment rien dedant
